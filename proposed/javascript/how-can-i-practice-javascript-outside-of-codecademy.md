@@ -12,10 +12,10 @@ Practising Javascript out of Codecademy is just a breeze. Here’s a step-by-ste
 4. Writing jQuery requires you to write the following lines in your HTML file:
 
 `
-    <!--These tags should be in exactly this order.-->  
+    <!--These tags should be in exactly this order.-->
+    <link href="http://ajax.googleapis.com/ajax/libs/jqueryui/1/themes/smoothness/jquery-ui.min.css" rel="stylesheet" type="text/css" />  <!--An additioanl CSS file bundled with jQuery UI -->
     <script src = “http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js”></script>  <!--jQuery 1.9.1 --->
     <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1/jquery-ui.min.js"></script>  <!--jQuery UI 1.10.1-->
-    <link href="http://ajax.googleapis.com/ajax/libs/jqueryui/1/themes/smoothness/jquery-ui.min.css" rel="stylesheet" type="text/css" />  <!--An additioanl CSS file bundled with jQuery UI -->
 `
 
 5. Now include the following lines to connect your **index.html** file to your **stylesheet.css** (if any) and **Game.js**.
