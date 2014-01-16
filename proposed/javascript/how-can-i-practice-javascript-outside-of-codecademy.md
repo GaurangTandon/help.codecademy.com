@@ -1,6 +1,5 @@
 ---
 title: "How can I practice coding outside of Codecademy - JavaScript Edition"
-published: false
 ---
 
 Practicing Javascript out of Codecademy is just a breeze. Here’s a step-by-step guide about writing Javascript and its plugin jQuery on either your local machine or using online editors:
