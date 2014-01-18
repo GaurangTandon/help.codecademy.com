@@ -28,7 +28,6 @@ Practicing Javascript out of Codecademy is just a breeze. Here’s a step-by-ste
 2. These are some online tools: 
   - [JSBin](http://www.jsbin.com)
   - [JSFiddle](http://www.jsfiddle.net)
-
 Make sure to save the URL, that appears when you click “Save”, in your bookmarks. **Note**: Saving is automatic in JSBin.
 
   [1]: article-from-#115
