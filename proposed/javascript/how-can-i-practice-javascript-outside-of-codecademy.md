@@ -21,14 +21,15 @@ Practicing Javascript out of Codecademy is just a breeze. Here’s a step-by-ste
 ```html
 <script src=”PathToYourJSFile/HelloWolrd.js”></script>  <!-- Your HelloWorld.js --> 
 ```
-7. Open up a browser of your choice. Go `Ctrl + O` and locate your HTML file with your linked JavaScript file. Your `console.log` statements will appear in the browser's developers console. If you open your JavaScript file instead within the browser, then it will just share your source code in the browser.
+7. Open up a browser of your choice. Press `Ctrl + O` and locate your HTML file with your linked JavaScript file. Your `console.log` statements will appear in the browser's developers console. If you open your JavaScript file instead within the browser, then it will just share your source code in the browser.
 
 ### Using an online tool:
 1. If you want to just practice writing JavaScript programs, you can use [Codecademy Labs](http://labs.codecademy.com).
 2. These are some online tools: 
   - [JSBin](http://www.jsbin.com)
   - [JSFiddle](http://www.jsfiddle.net)
-  Make sure to save the URL, that appears when you click “Save”, in your bookmarks. **Note**: Saving is automatic in JSBin.
+
+Make sure to save the URL, that appears when you click “Save”, in your bookmarks. **Note**: Saving is automatic in JSBin.
 
   [1]: article-from-#115
   [2]: http://en.wikipedia.org/wiki/Hello_world_program
