@@ -11,6 +11,7 @@ Practicing Javascript outside of Codecademy is just a breeze. Here’s a step-by
 3. Save it as a JavaScript file. This means including the `.js` file extension, i.e. `"HelloWorld.js"`. 
 4. Create a HTML document. Follow [these directions][3] to make one.
 5. **(Optional)** To practice jQuery, add the following to your HTML file:
+
     ```html
     <!--These tags should be in exactly this order.-->
     <link href="http://ajax.googleapis.com/ajax/libs/jqueryui/1/themes/smoothness/jquery-ui.min.css" rel="stylesheet" type="text/css" />  <!--An additioanl CSS file bundled with jQuery UI -->
@@ -18,6 +19,7 @@ Practicing Javascript outside of Codecademy is just a breeze. Here’s a step-by
     <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1/jquery-ui.min.js"></script>  <!--jQuery UI 1.10.1-->
     ```
 6. Include a link to your new script file to the HTML file from step 4. Below is an example using the `"HelloWorld.js"` script:
+
     ```html
     <script src=”PathToYourJSFile/HelloWolrd.js”></script>  <!-- Your HelloWorld.js --> 
     ```
