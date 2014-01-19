@@ -15,7 +15,7 @@ Practicing Javascript outside of Codecademy is just a breeze. Here’s a step-by
     ```html
     <!--These tags should be in exactly this order.-->
     <link href="http://ajax.googleapis.com/ajax/libs/jqueryui/1/themes/smoothness/jquery-ui.min.css" rel="stylesheet" type="text/css" />  <!--An additioanl CSS file bundled with jQuery UI -->
-    <script src = “http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js”></script>  <!--jQuery 1.9.1 --->
+    <script src=“http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js”></script>  <!--jQuery 1.9.1 --->
     <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1/jquery-ui.min.js"></script>  <!--jQuery UI 1.10.1-->
     ```
 6. Include a link to your new script file in the HTML file from step 4. Below is an example using the `"HelloWorld.js"` script:
