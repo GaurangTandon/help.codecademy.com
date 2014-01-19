@@ -18,16 +18,16 @@ Practicing Javascript outside of Codecademy is just a breeze. Here’s a step-by
     <script src = “http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js”></script>  <!--jQuery 1.9.1 --->
     <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1/jquery-ui.min.js"></script>  <!--jQuery UI 1.10.1-->
     ```
-6. Include a link to your new script file to the HTML file from step 4. Below is an example using the `"HelloWorld.js"` script:
+6. Include a link to your new script file in the HTML file from step 4. Below is an example using the `"HelloWorld.js"` script:
 
     ```html
-    <script src=”PathToYourJSFile/HelloWolrd.js”></script>  <!-- Your HelloWorld.js --> 
+    <script src=”PathToYourJSFile/HelloWorld.js”></script>  <!-- Your HelloWorld.js --> 
     ```
-7. Open up a browser of your choice. Press `Ctrl + O` and locate your HTML file with your linked JavaScript file. Your `console.log` statements will appear in the browser's developers console. If you open your JavaScript file instead within the browser, then it will just share your source code in the browser.
+7. Open up a browser of your choice. Press `Ctrl + O` and locate your HTML file (to which you linked your JavaScript file. Your `console.log` statements will appear in the browser's developer console. If you open your JavaScript file instead within the browser, then it will just show your source code in the browser.
 
 ### Using an online tool:
 1. If you want to just practice writing JavaScript programs, you can use [Codecademy Labs](http://labs.codecademy.com).
-2. These are some online tools: 
+2. These are some online tools for manipulating both HTML and JS together: 
   - [JSBin](http://www.jsbin.com)
   - [JSFiddle](http://www.jsfiddle.net)
 
