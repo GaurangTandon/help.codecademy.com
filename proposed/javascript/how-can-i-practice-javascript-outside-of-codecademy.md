@@ -23,7 +23,7 @@ Practicing Javascript outside of Codecademy is just a breeze. Here’s a step-by
     ```html
     <script src=”PathToYourJSFile/HelloWorld.js”></script>  <!-- Your HelloWorld.js --> 
     ```
-7. Open up a browser of your choice. Press `Ctrl + O` and locate your HTML file (to which you linked your JavaScript file). Your `console.log` statements will appear in the browser's developer console. If you open your JavaScript file instead within the browser, then it will just show your source code in the browser.
+7. Open up a browser of your choice. Press `Ctrl/Cmd + O` to locate and open your HTML file (to which you linked your JavaScript file). Your `console.log` statements will appear in the browser's developer console. If you open your JavaScript file instead within the browser, then it will just show your source code in the browser.
 
 ### Using an online tool:
 1. If you want to just practice writing JavaScript programs, you can use [Codecademy Labs](http://labs.codecademy.com).
